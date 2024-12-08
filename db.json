@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {
+      "id": "f18f",
+      "firstName": "Thanthathon",
+      "lastName": "Sangphet",
+      "email": "thanthathon.sang@gmail.com",
+      "dob": "2024-12-15T17:00:00.000Z",
+      "gender": "",
+      "education": "Bachelors Degree",
+      "department": "IT DEPARTMENT",
+      "position": "Data Scientist",
+      "salary": 58000
+    }
+  ]
+}
+
